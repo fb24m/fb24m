@@ -5,9 +5,11 @@
 <img src="https://img.shields.io/badge/NunJucks-1e9632">
 <img src="https://img.shields.io/badge/CSS3-214ce5">
 <img src="https://img.shields.io/badge/SCSS-cc6699">
+  <img src="https://img.shields.io/badge/WordPress-3858E9">
 <img src="https://img.shields.io/badge/Gulp-cf4647">
 <img src="https://img.shields.io/badge/JavaScript-f7e018">
 <img src="https://img.shields.io/badge/TypeScript-2d79c7">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3">
 <img src="https://img.shields.io/badge/WebPack-8dd4fa">
 <img src="https://img.shields.io/badge/BEM-7ac144">
 <img src="https://img.shields.io/badge/React-4fafc9">
