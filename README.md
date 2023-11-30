@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/React_Query-f0513c">
 <img src="https://img.shields.io/badge/Axios-671ddf">
 <img src="https://img.shields.io/badge/Vite-f2a000">
+<img src="https://img.shields.io/badge/Next.js-000000">
 <img src="https://img.shields.io/badge/Git-f64d27">
 </div>
 
