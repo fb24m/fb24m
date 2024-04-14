@@ -30,3 +30,21 @@
 
 ## Языки
 Русский - родной | English - A2
+
+<div>
+  <a href="https://tenchat.ru/fb24m" target="_blank"> 
+    <img src="https://github.com/fb24m/fb24m/assets/103760918/f6d5aac7-1e64-4cd5-ae1d-273e2121114d">
+    </a>
+  <a href="https://fb24m.ru/" target="_blank"> 
+    <img src="https://github.com/fb24m/fb24m/assets/103760918/2810661f-c46c-480f-883d-887880cbf42d">
+  </a>
+   <a href="https://kwork.ru/user/fb24m" target="_blank"> 
+    <img src="https://github.com/fb24m/fb24m/assets/103760918/45d6013d-0616-4e08-81a2-e1ea5aba5843">
+  </a>
+  <a href="https://t.me/fb24m" target="_blank"> 
+    <img src="https://github.com/fb24m/fb24m/assets/103760918/aa6efd93-e426-4820-9abb-fbf810167e9b">
+  </a>
+  <a href="mailto:hello@fb24m.ru"> 
+    <img src="https://github.com/fb24m/fb24m/assets/103760918/cd44e672-302c-4572-8588-85dc835aaca9">
+  </a>
+</div>
