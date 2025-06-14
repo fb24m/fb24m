@@ -29,7 +29,7 @@
 А с 2023 работаю еще с React и его экосистемой - React Query, React Router и тд, а также другими библиотеками - Axios, Swiper и тд. Сайт, на котором вы **не можете** ознакомиться с портфолио и сделать заказ - https://fb24m.ru
 
 ## Языки
-Русский - родной | English - B2
+Русский - С++ | English - B2
 
 <div>
   <a href="https://tenchat.ru/fb24m" target="_blank"> 
